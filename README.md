@@ -49,7 +49,7 @@ Thanks to [@girliemac](https://github.com/girliemac) for creating the amazing ht
 
 Thanks to [@pfdborges](https://github.com/pfdborges) for creating the http.cat logo (RIP my friend).
 
-#### Thanks to all the contributors:
+### Thanks to all the contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -114,7 +114,7 @@ Thanks to [@pfdborges](https://github.com/pfdborges) for creating the http.cat l
 
 Please consider sponsoring or donating via the following options:
 
-<a target="_blank" rel="nofollow" href="https://www.patreon.com/httpcat"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="patron" width="174px" height="41"></a> <a href="https://www.buymeacoffee.com/http.cat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[![patron](https://c5.patreon.com/external/logo/become_a_patron_button@2x.png)](https://www.patreon.com/httpcat) [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-yellow.png)](https://www.buymeacoffee.com/http.cat)
 
 You can also adopt an HTTP Cat and have your name in the chosen cat image!
 
